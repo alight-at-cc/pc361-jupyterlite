@@ -7,3 +7,4 @@ dependencies:
   - numpy[version='<2.3.0']
   - matplotlib
   - scipy
+  - h5py
